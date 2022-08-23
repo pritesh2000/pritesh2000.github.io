@@ -1,14 +1,11 @@
-![priteshptadvi29@gmail.com](email.png)
 
-[![pritesh]()](email.png)
+<img src="email.png" width=50>
+<img src="linkedin.png" width=50>
+<img src="github-logo.png" width=50>
+
+[priteshptadvi29@gmail.com](<img src="email.png" width=50>)
 
 
-![https://www.linkedin.com/in/pritesh-tadvi](linkedin.png)
-
-
-![https://github.com/pritesh2000](github-logo.png)
-
-## [priteshptadvi29@gmail.com](pritesh@gmail.com)
 # Data Science Projects:
 ---
 ## [1. Bike Share Analysis](https://github.com/pritesh2000/case_study_1_bike-share)
