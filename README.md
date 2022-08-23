@@ -1,10 +1,31 @@
+<html lang="en">
+<head>
+  
+</head>
+<body>
+  
+ 
+    <img src="linkedin.png" width=30 href="https://www.linkedin.com/in/pritesh-tadvi">
+  
+    <img src="github-logo.png" width=30> [https://github.com/pritesh2000](https://github.com/pritesh2000)
+    <img src="email.png" width=30> [priteshptadvi29@gmail.com](priteshptadvi29@gmail.com)
+  
+  <ul>
+  <li>1968. A great year!</li>
+  <li>I think 1969 was second best.</li>
+</ul>
+  
+  <a href="https://www.linkedin.com/in/pritesh-tadvi">https://www.linkedin.com/in/pritesh-tadvi</a>
+  <a href="https://www.linkedin.com/in/pritesh-tadvi"><img src="linkedin.png" alt="profile page" width = 20>  https://www.linkedin.com/in/pritesh-tadvi</a>
+  
+  
+</body>
+</html>
 
-<img src="email.png" width=50>
-<img src="linkedin.png" width=50>
-<img src="github-logo.png" width=50>
+---
 
-[priteshptadvi29@gmail.com](<img src="email.png" width=50>)
 
+---
 
 # Data Science Projects:
 ---
