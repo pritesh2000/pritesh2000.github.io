@@ -5,10 +5,11 @@
 #### Tableau : [https://public.tableau.com/app/profile/priteshkumar.tadvi](https://public.tableau.com/app/profile/priteshkumar.tadvi)
 
 ---
-
-# Data Science Projects:
 ---
+# Data Science Projects:
+
 ## [1. Bike Share Analysis](https://github.com/pritesh2000/case_study_1_bike-share)
+---
 ---
 ## Skills:
 
