@@ -6,9 +6,13 @@
 
 ---
 ---
-# Data Science Projects:
+## Data Science Projects:
 
-## [1. Bike Share Analysis](https://github.com/pritesh2000/case_study_1_bike-share)
+### [1. Bike Share Analysis](https://github.com/pritesh2000/case_study_1_bike-share)
+### [2. Real Estates Prediction](https://github.com/pritesh2000/case_study_2_real_estates)
+### [3. Titanic Survivors Prediction](https://github.com/pritesh2000/Competition_1_Titanic)
+
+
 ---
 ---
 ## Skills:
