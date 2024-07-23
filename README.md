@@ -1,32 +1,5 @@
-Freelancer Jekyll theme  
-=========================
+> ## Pritesh Tadvi [portfolio site](https://pritesh2000.github.io/) repository
 
-Jekyll theme based on [Freelancer bootstrap theme ](http://startbootstrap.com/template-overviews/freelancer/)
+> ### [Resume](https://drive.google.com/file/d/1mufgx0gQmhpGkE7CdMp5v4kmRvUBOks6/view)
 
-## How to use
- - Place a image in `/img/portfolio/`
- - Replace `your-email@domain.com` in `_config.yml` with your email address. Refer to [formspree](http://formspree.io/) for more information.
- - Create posts to display your projects. Use the follow as an example:
-```txt
----
-layout: default
-modal-id: 1
-date: 2020-01-18
-img: cabin.png
-alt: image-alt
-project-date: January 2020
-client: The Client
-category: Web Development
-description: The description of the project
-
----
-```
-
-## Demo
-View this jekyll theme in action [here](https://jeromelachaud.com/freelancer-theme)
-
-## Screenshot
-![screenshot](https://raw.githubusercontent.com/jeromelachaud/freelancer-theme/master/screenshot.png)
-
----------
-For more details, read the [documentation](http://jekyllrb.com/)
+> ### [LinkedIn](https://www.linkedin.com/in/pritesh-tadvi/), [HackerRank](https://www.hackerrank.com/profile/__ppt_29), [Leetcode](https://leetcode.com/__ppt_29/), [Kaggle](https://www.kaggle.com/priteshtadvi), [Tableau](https://public.tableau.com/app/profile/priteshkumar.tadvi/), [HuggingFace](https://huggingface.co/pritesh29)
