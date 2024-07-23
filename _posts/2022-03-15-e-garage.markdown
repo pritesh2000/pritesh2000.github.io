@@ -8,5 +8,5 @@ link: https://github.com/pritesh2000/env6
 project-date: March 2022
 category: Web Development
 tools-and-technology: Python, Django, PostgreSQL, Git, Bootstrap, Heroku, VS Code
-description: This project contains a web application. Used Django ORM(object relational mapping) to manipulate PostgreSQL database. Performed CRUD operation. Made django user authentication for customization of users. Also used heroku for deployment.
+description: This project contains a web application. Used Django ORM (object relational mapping) to manipulate the PostgreSQL database. Performed CRUD operation. Made django user authentication for customization of users. Also used Heroku for deployment.
 ---
